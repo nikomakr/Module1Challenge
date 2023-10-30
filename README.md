@@ -1,8 +1,7 @@
 # Module1Challenge
-Module 1 Challenge
+***Module 1 Challenge***
 
-
-Challenges in This Course
+_Challenges in This Course
 Challenge Types
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
@@ -44,7 +43,7 @@ An important rule to follow when working with someone else's code is the Scout R
 
 To impress clients, you should always go the extra mile and improve the codebase for long-term sustainability. For example, make sure that all links are functioning correctly. Also, rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-Are you ready to jump in? Here are this week's Challenge requirements:
+Are you ready to jump in? Here are this week's Challenge requirements:_
 
 ***User Story***
 AS A marketing agency
