@@ -1,16 +1,17 @@
 # Module1Challenge
 Module 1 Challenge
 
-Due 3 Oct by 23:59 Points 100 Submitting a text entry box
+
 Challenges in This Course
 Challenge Types
+
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
 The two types of Challenges are the following:
 
-On-the-job ticket or feature request Challenges give you starter code, which you'll modify to complete the Challenge.
+1)On-the-job ticket or feature request Challenges give you starter code, which you'll modify to complete the Challenge.
 
-Coding Challenges don't provide starter code. You'll build these from scratch.
+2)Coding Challenges don't provide starter code. You'll build these from scratch.
 
 Challenge Elements
 Challenges adhere to a format that's commonly used by software development teams that use agile project management to manage their work. Practicing this will prepare you for the workflows you'll experience as a professional full-stack web developer.
@@ -18,13 +19,13 @@ Challenges adhere to a format that's commonly used by software development teams
 DEEP DIVE
 Each Challenge contains the following elements:
 
-User Story: This is a short, simple description of a feature told from the perspective of the person who is requesting the new capability, usually a user or customer of the system. This follows an AS AN / I WANT / SO THAT format. For example, "AS A shopper visiting an online store, I WANT to place items in a shopping cart, SO THAT I can purchase them."
+**User Story**: <sub>This is a short, simple description of a feature told from the perspective of the person who is requesting the new capability, usually a user or customer of the system. This follows an AS AN / I WANT / SO THAT format. For example, "AS A shopper visiting an online store, I WANT to place items in a shopping cart, SO THAT I can purchase them."</sub>
 
-Acceptance Criteria: These are the requirements that you must meet to satisfy the scope of work. They are not exhaustive, but they do entail the minimum aspects of a working solution. Consider this a checklist of baseline requirements. Acceptance criteria can be presented in various ways. In this case, we'll use a common format called scenario-oriented criteria which expresses each requirement in a WHEN / THEN format. Don't worry if this doesn't make sense now; it will become very familiar to you after you complete a couple of challenges.
+**Acceptance Criteria**: <sub>These are the requirements that you must meet to satisfy the scope of work. They are not exhaustive, but they do entail the minimum aspects of a working solution. Consider this a checklist of baseline requirements. Acceptance criteria can be presented in various ways. In this case, we'll use a common format called scenario-oriented criteria which expresses each requirement in a WHEN / THEN format. Don't worry if this doesn't make sense now; it will become very familiar to you after you complete a couple of challenges.</sub>
 
-Mock-up: This is an image or animation that demonstrates the design and functionality of the web application that you'll build for the Challenge.
+**Mock-up**: <sub>This is an image or animation that demonstrates the design and functionality of the web application that you'll build for the Challenge.</sub>
 
-Submission: You'll submit your completed Challenge for review. In the real world, when a developer finishes working on a project, another developer reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met. For each Challenge, your instructional staff will serve as your team of reviewers.
+**Submission**: <sub>You'll submit your completed Challenge for review. In the real world, when a developer finishes working on a project, another developer reviews the code, providing feedback on errors and making sure that all of the acceptance criteria have been met. For each Challenge, your instructional staff will serve as your team of reviewers.</sub>
 
 HTML CSS Git Challenge: Code Refactor
 NOTE
@@ -45,7 +46,7 @@ To impress clients, you should always go the extra mile and improve the codebase
 
 Are you ready to jump in? Here are this week's Challenge requirements:
 
-User Story
+***User Story***
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
