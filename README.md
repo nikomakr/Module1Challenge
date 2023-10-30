@@ -1,7 +1,7 @@
 # Module1Challenge
 ***Module 1 Challenge***
 
-_Challenges in This Course
+Challenges in This Course
 Challenge Types
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
@@ -98,6 +98,7 @@ IMPORTANT
 It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment. Be sure to add, commit, and push your work to see the most up-to-date version of your app!
 
 Grading Requirements
+
 NOTE
 If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
 
