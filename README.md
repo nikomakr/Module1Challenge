@@ -1,4 +1,5 @@
 # Module1Challenge
+
 ***Module 1 Challenge***
 
 Challenges in This Course
@@ -159,5 +160,9 @@ IMPORTANT
 No matter how difficult the course becomes, you must always turn in original work. Plagiarism is not tolerated. If your instructional or support staff determine that you have plagiarized work, your Student Success Manager will determine the appropriate course of action based on university policy. Such actions may include, but are not limited to, a documented plagiarism discussion, an incomplete or failing grade assignment, or ineligibility for graduation.
 
 It is your responsibility to include a note in the README section of your repo specifying code source and its location within your repo. This applies if you have worked with a peer on an assignment, used code in which you did not author or create sourced from a forum such as Stack Overflow, or you received code outside curriculum content from support staff such as an Instructor, TA, Tutor, or Learning Assistant. This will provide visibility to grading staff of your circumstance in order to avoid flagging your work as plagiarized.
+
+## Credits
+
+As a student of edX - Skills for life - skills bootcamps here: https://skillsforlife.edx.org and precisely Front-End developer / Web Development course I reference any code you might see as a copy or partially copy or influenced by the repo here: https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-09-2023-U-LOLC.git
 
 © 2023 edX Boot Camps LLC
