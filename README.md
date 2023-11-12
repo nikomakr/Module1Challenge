@@ -141,5 +141,6 @@ It might take a few minutes for GitHub pages to display your site correctly. If 
 >>##**Credits*** <br>
 >>As a student of edX - Skills for life - skills bootcamps here: https://skillsforlife.edx.org and precisely Front-End developer / Web Development course I reference any code you might see as a copy or partially copy or influenced by the repo here: https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-09-2023-U-LOLC.git
 >>Youssef from AskBCS helped me with the right location of the files on root directory. That was something I have heard for first time.
+>>I have tried to follow what Google recommends, here: https://developers.google.com/search/docs/fundamentals/seo-starter-guide
 
 © 2023 edX Boot Camps LLC
